@@ -1,4 +1,6 @@
-### ⛧
+### ⛧ You Need to Learn to Love. After all, we are always rewarded for our good will, our patience, equity, tenderness, towards what is strange, to the extent that strangeness slowly removes the veil and presents itself as a new and unspeakable beauty.
+~Nietzsche
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcklab&show_icons=true&theme=radical)
 
 
