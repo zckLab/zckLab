@@ -1,4 +1,4 @@
-### ⛧ Wisdom is a paradox. The man who knows the most is the one who most recognizes the vastness of his ignorance.
+### ⛧ fuck pf.
 ~Nietzsche
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcklab&show_icons=true&theme=radical)
