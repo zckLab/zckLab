@@ -1,4 +1,4 @@
-### ⛧ satan has always ruled the earth
+### ⛧ ham?
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcklab&show_icons=true&theme=radical)
 
