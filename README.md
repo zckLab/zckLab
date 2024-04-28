@@ -1,4 +1,4 @@
-### ⛧ ham?
+### ⛧ zck is dead
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcklab&show_icons=true&theme=radical)
 
