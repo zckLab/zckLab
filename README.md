@@ -5,7 +5,7 @@
 
 **💼 Obecnie**
 - 🧠 **Back-End Development (Python)**
-- 🐧** Linux OS** (Kali, Arch, serwery)
+- 🐧**Linux OS** (Kali, Arch, serwery)
 - ⚙️ **Integracja software ↔ hardware**
 - 🔐 **Cybersecurity** (w trakcie nauki)
 - 📐 **Automatyzacja procesów i analiza techniczna**
