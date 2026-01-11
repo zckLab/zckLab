@@ -22,4 +22,5 @@
 - Stabilność, utrzymalność, bezpieczeństwo
 - Rozwiązywanie problemów z perspektywy inżynierskiej
 
-[![zckLab's GitHub stats](https://github-readme-stats.vercel.app/api?username=zckLab)](https://github.com/zckLab/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zckLab&show_icons=true&theme=radical)
