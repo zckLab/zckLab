@@ -21,5 +21,25 @@
 - Stabilność, utrzymalność, bezpieczeństwo
 - Rozwiązywanie problemów z perspektywy inżynierskiej
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="36"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat" height="36"/>
+  <img src="https://img.shields.io/badge/IoT-00BFFF?style=flat&logo=iot&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat" height="36"/>
+  <img src="https://img.shields.io/badge/Automation-4B0082?style=flat" height="36"/>
+  <img src="https://img.shields.io/badge/Embedded-FF5733?style=flat" height="36"/>
+  <img src="https://img.shields.io/badge/Security-000000?style=flat&logo=security&logoColor=white" height="36"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white)![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat)![IoT](https://img.shields.io/badge/IoT-00BFFF?style=flat&logo=iot&logoColor=white)![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?style=flat&logo=kali-linux&logoColor=white)![Arch Linux](https://img.shields.io/badge/Arch-Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat)![Automation](https://img.shields.io/badge/Automation-4B0082?style=flat)![Embedded](https://img.shields.io/badge/Embedded-FF5733?style=flat)![Security](https://img.shields.io/badge/Cybersecurity-000000?style=flat&logo=security&logoColor=white)
+
+📩**Kontakt:** zklirtcontact@gmail.com
