@@ -42,4 +42,4 @@
 </p>
 
 
-📩**Kontakt:** zklirtcontact@gmail.com
+📩**Kontakt:** contactzklirt@gmail.com
