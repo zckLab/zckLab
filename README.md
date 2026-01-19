@@ -19,4 +19,4 @@
 </p>
 
 
-📩**Kontakt:** contactzklirt@gmail.com
+📩**Contact:** contactzklirt@gmail.com
