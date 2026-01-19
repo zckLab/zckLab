@@ -5,6 +5,7 @@
 - Learning Python🐍
 - Learning Linux OS & distros🖥️
 
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" height="36"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="36"/>
