@@ -1,5 +1,6 @@
 **Hi/Cześć 👋**
 
+- Learning Polski 🇵🇱
 - Learning electromechanical⚙️
 - Learning Cybersecurity🛡️
 - Learning Python🐍
