@@ -4,6 +4,7 @@
 - Learning electromechanical⚙️
 - Learning Cybersecurity🛡️
 - Learning Python🐍
+- Learning Go🧸
 - Learning Linux OS & distros🖥️
 
 
