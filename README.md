@@ -2,6 +2,10 @@
 
 Developer focused on secure embedded systems and backend services, building hardware–cloud security gateways and telemetry validation pipelines.
 
+Early-career security engineer (16) specializing in hardware-backed trust architectures and backend reliability.
+
+---
+
 **Core Areas**  
 Cybersecurity • Embedded Systems • IoT • Backend Architecture • Linux
 
