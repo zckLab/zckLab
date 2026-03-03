@@ -16,7 +16,7 @@ Python • Go • C/C++ • ESP32 • FastAPI • Linux
 **[Aegis-V Core](https://github.com/zckLab/Aegis-V-Core)** — high-integrity gateway connecting cloud dashboards to hardware root-of-trust components.
 
 **Current Studies**  
-Secure system architecture • Electromechanics • Polish (PL)
+Secure system architecture • Electromechanics • Polish
 
 **Contact**  
 contactzklirt@gmail.com
