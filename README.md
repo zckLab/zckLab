@@ -19,4 +19,4 @@ Python • Go • C/C++ • ESP32 • FastAPI • Linux
 Secure system architecture • Electromechanics • Polish
 
 **Contact Me**  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contactzklirt@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otoniel-henrique-cavalcante-ribeiro-de-oliveira-65b4813aa/)
+[![Email](https://img.shields.io/badge/Email-contactzklirt%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contactzklirt@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otoniel-henrique-cavalcante-ribeiro-de-oliveira-65b4813aa/)
