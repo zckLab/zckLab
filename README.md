@@ -13,7 +13,8 @@ Cybersecurity • Embedded Systems • IoT • Backend Architecture • Linux
 Python • Go • C/C++ • ESP32 • FastAPI • Linux
 
 **Selected Project**  
-**[Aegis-V Core](https://github.com/zckLab/Aegis-V-Core)** — high-integrity gateway connecting cloud dashboards to hardware root-of-trust components.
+- **[Aegis-V Core](https://github.com/zckLab/Aegis-V-Core)** — high-integrity gateway connecting cloud dashboards to hardware root-of-trust components.
+- **[Open-Source Edu-Platform](https://zcklab.github.io/edu-platform/)** — A customizable open-source platform for building and editing personal websites.
 
 **Current Studies**  
 Secure system architecture • Electromechanics • Polish
