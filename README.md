@@ -1,6 +1,6 @@
 # IoT & Security-Focused Developer
 
-Developer focused on secure embedded systems and fullstack services, building hardware–cloud security gateways and telemetry validation pipelines.
+Developer focused on secure embedded systems and backend services, building hardware–cloud security gateways and telemetry validation pipelines.
 
 Early-career security engineer (16) specializing in hardware-backed trust architectures and backend reliability.
 
@@ -10,7 +10,7 @@ Early-career security engineer (16) specializing in hardware-backed trust archit
 Cybersecurity • Embedded Systems • IoT • Backend Architecture • Linux
 
 **Tech Stack**  
-Python • Go • C/C++ • ESP32 • FastAPI • Linux
+Java • Go • C++ • ESP32 • Python • Linux
 
 **Selected Project**  
 - **[Aegis-V Core](https://github.com/zckLab/Aegis-V-Core)** — high-integrity gateway connecting cloud dashboards to hardware root-of-trust components.
