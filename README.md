@@ -7,7 +7,7 @@ Early-career (16) specializing in hardware-backend trust architectures and backe
 ---
 
 **Current Studies**  
-Secure system architecture • Electromechanics • Backend • REST API • Java
+Secure system architecture • Electromechanics • Backend • REST API • Java 25
 
 **Selected Project**  
 - **[Aegis-V Core](https://github.com/zckLab/Aegis-V-Core)** — high-integrity gateway connecting cloud dashboards to hardware root-of-trust components.
